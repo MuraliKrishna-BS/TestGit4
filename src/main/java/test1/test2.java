@@ -6,7 +6,7 @@ public class test2 {
 		// TODO Auto-generated method stub
 
 System.out.println("Test for puth");
-		System.out.println("Test for pull");
+		System.out.println("Test for push123");
 		
 	}
 
